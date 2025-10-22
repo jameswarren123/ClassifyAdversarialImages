@@ -13,4 +13,4 @@ A Python application which takes the MNIST dataset and generates a series of adv
 - TensorFlor
 - PyTorch
 ## Setup
-Download the ipynb file hear and upload it to google colab.
+Download the ipynb file here and upload it to google colab.
